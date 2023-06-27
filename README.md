@@ -1,2 +1,3 @@
 # Canabis
 Легалайз
+Cripto all
